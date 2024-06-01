@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQ1ARYTFdupVvCx1JS/Wm+MlBuHbL06kEVd4QjmJVrl8e6+GjlfPujOf4zpoflXRzZA0yL8qZ07XuNuABMPpmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Electronic Store\\source\\repos\\ETLProcess\\ETLProcess\\ETLProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronic Store\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Electronic Store\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
